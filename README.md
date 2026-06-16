@@ -8,9 +8,10 @@
 ## Overview
 
 ### What is Whoosh?
-**Whoosh** is a social media similar to Twitter / X and the now dead Flirb that will be compatible on older iOS versions and older Android versions, as well as other devices.
+**Whoosh** is a social media similar to Twitter / X and inspired by the now dead Flirb Twitter revival.
 
-We plan to release it as a patch for the Twitter app and as its own app.
+###Plans
+We plan to release it as a patch for the Twitter app and as its own app for both older iOS and Android devices as well as newer versions and other devices.
 
 ### What devices will it support?
 Since the project started recently there isn't an actual **list** of devices where Whoosh actually works. But here is a list of the platforms we plan to release it.
