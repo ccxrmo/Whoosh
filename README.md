@@ -1,4 +1,8 @@
 # Whoosh
+
+<img width="1544" height="514" alt="image" src="https://github.com/user-attachments/assets/c6a48a81-5e7b-4838-8f5d-d8f7d0e020f9" />
+
+
 > [!WARNING] 
 > This project is still a work in progress. Take in mind that these are ideas for now and there isn't an actual build available for it.
 
@@ -30,11 +34,11 @@ Whoosh is our first project, and we know little about coding apps, so this is ac
 
 Please contact us on Discord:
 - **@geobit64** (astrxbe)
-- **@arkix72**
+- **@arkix72**  (IAteSomebodysHouse)
 
 ## Credits
 
-- arkix72
+- IAteSomebodysHouse (also known as arkix72)
     - Project Owner
     - Developer
     - Server Hoster
