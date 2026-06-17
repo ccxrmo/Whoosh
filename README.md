@@ -48,4 +48,4 @@ Please contact us on Discord:
     - Developer
     - Graphic Designer
 
-[^1] Logo not finalized, might change later on development.
+[^1]: Logo not finalized, might change later on development.
