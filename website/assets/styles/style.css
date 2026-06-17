@@ -15,14 +15,12 @@ body {
 }
 
 nav {
-    background: #008AE6;
-    background: -webkit-linear-gradient(180deg, rgba(0, 138, 230, 1) 0%, rgba(56, 162, 194, 1) 23%, rgba(43, 194, 83, 1) 83%, rgba(7, 168, 50, 1) 100%);
-    background: -moz-linear-gradient(180deg, rgba(0, 138, 230, 1) 0%, rgba(56, 162, 194, 1) 23%, rgba(43, 194, 83, 1) 83%, rgba(7, 168, 50, 1) 100%);
     background: linear-gradient(180deg, rgba(0, 138, 230, 1) 0%, rgba(56, 162, 194, 1) 23%, rgba(43, 194, 83, 1) 83%, rgba(7, 168, 50, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#008AE6", endColorstr="#07A832", GradientType=0);
     color: black;
     height: 40px;
     display: flex;
+    animation: alternate-colors ease-in-out 5s infinite;
 }
 
 nav a {
@@ -75,4 +73,14 @@ nav a:hover {
 
 .btn:hover {
     background-color: #005f99;
+}
+
+/* ANIMATIONS */
+
+@keyframes alternate-colors {
+    0% {background: rgba(0, 138, 230, 1);}
+    25% {background: rgba(56, 162, 194, 1);}
+    50% {background: rgba(43, 194, 83, 1);}
+    75% {background: rgba(7, 168, 50, 1);}
+    100% {background: rgba(0, 138, 230, 1);}
 }
