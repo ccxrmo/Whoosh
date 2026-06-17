@@ -40,12 +40,13 @@ Please contact us on Discord:
 
 - IAteSomebodysHouse (also known as arkix72)
     - Project Owner
-    - Developer
+    - App Developer
     - Server Hoster
 
 - astrxbe (also known as ccxrmo)
     - Project Owner
-    - Developer
+    - App Developer
     - Graphic Designer
+    - Website
 
 [^1]: Logo not finalized, might change later on development.
