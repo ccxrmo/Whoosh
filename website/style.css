@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+}
+
+nav {
+    background: #fff;
+    color: black;
+    height: 40px;
+    display: flex;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    align-self: center;
+    padding: 0px 15px
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
