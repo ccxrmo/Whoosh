@@ -1,4 +1,6 @@
-<img width="386" height="128.5" alt="image" src="https://github.com/user-attachments/assets/c6a48a81-5e7b-4838-8f5d-d8f7d0e020f9" />
+<img width="386" height="128.5" alt="image" src="https://github.com/user-attachments/assets/c6a48a81-5e7b-4838-8f5d-d8f7d0e020f9" /> 
+
+*Whoosh logo*[^1]
 
 > [!WARNING] 
 > This project is still a work in progress. Take in mind that these are ideas for now and there isn't an actual build available for it.
@@ -8,11 +10,11 @@
 ### What is Whoosh?
 **Whoosh** is a social media similar to Twitter / X and inspired by the now dead Flirb Twitter revival.
 
-###Plans
+### Plans
 We plan to release it as a patch for the Twitter app and as its own app for both older iOS and Android devices as well as newer versions and other devices.
 
 ### What devices will it support?
-Since the project started recently there isn't an actual **list** of devices where Whoosh actually works. But here is a list of the platforms we plan to release it.
+Since the project started recently there isn't an actual **list** of devices where Whoosh actually works. But here is a list of the platforms where we plan to release it.
 
 - iOS 
 - Android
@@ -20,7 +22,7 @@ Since the project started recently there isn't an actual **list** of devices whe
 - Web
 
 > [!NOTE]
-> Some of the devices listed might not be supported.
+> Take in mind this is an hypothetical list, which means that some of the devices listed might not be supported later on development.
 
 ## The Design
 Whoosh's design is *highly* based on **Skeuomorphism** and **Frutiger Aero**. It's theme is highly influenced by **ocean's wildlife**. 
@@ -45,3 +47,5 @@ Please contact us on Discord:
     - Project Owner
     - Developer
     - Graphic Designer
+
+[^1] Logo not finalized, might change later on development.
