@@ -77,10 +77,10 @@ nav a:hover {
 
 /* ANIMATIONS */
 
-@keyframes alternate-colors {
+/* @keyframes alternate-colors {
     0% {background: rgba(0, 138, 230, 1);}
     25% {background: rgba(56, 162, 194, 1);}
     50% {background: rgba(43, 194, 83, 1);}
     75% {background: rgba(7, 168, 50, 1);}
     100% {background: rgba(0, 138, 230, 1);}
-}
+} */
