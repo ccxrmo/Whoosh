@@ -21,6 +21,10 @@ button:hover {
   cursor: pointer;
 }
 
+button:active {
+	transform: translateY(3px);
+}
+
 /* COLOR BASE */
 
  button.primary {
