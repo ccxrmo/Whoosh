@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'ArialRoundedBold';
-    src: url(/website/assets/fonts/ArialRoundedBold.ttf) format('truetype');
+    src: url('../fonts/ArialRoundedBold.ttf') format('truetype');
 }
 
 /* STYLES */
@@ -46,6 +46,23 @@ nav a:hover {
     margin-left: 20px;
     display: block;
     margin-bottom: 20px;
+}
+
+.hero h1 {
+    display: flex;
+    font-weight: normal;
+    margin-bottom: 2px;
+}
+
+.hero h1 img {
+    height: 1.5em;
+    margin-left: 10px;
+    position: relative;
+    top: -10px;
+}
+
+.hero h1 * {
+    align-self: center;
 }
 
 .hero {
@@ -102,6 +119,49 @@ footer a:hover {
 footer p {
     margin: 0;
     padding-bottom: 20px
+}
+
+/* DOWNLOAD */
+
+.platforms {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+    flex-direction: column;
+}
+
+.platforms a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    transition: all ease 0.2s;
+    position: relative;
+    overflow: hidden;
+}
+
+.platforms a:after {
+    content: '';
+    width: 100%;
+    height: 100px;
+    background: radial-gradient(100% 100% at 50% 0%, rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0.2) 100%);
+    border-radius: 12px;
+    position: absolute;
+    pointer-events: none;
+    top: -60px;
+    left: 0;
+}
+
+.platforms.ios {
+    background: linear-gradient();
+}
+
+.platforms.android {
+    background: linear-gradient();
 }
 
 /* NOTIFICATIONS */
