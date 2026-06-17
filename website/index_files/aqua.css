@@ -1,0 +1,101 @@
+/* BUTTON BASE */
+
+button {
+	 grid-row: 1;
+	 font-size: 1rem;
+	 font-family: "myriad-pro", system-ui;
+	 height: 1.75em;
+	 padding: 0 2em;
+	 min-width: 6em;
+	 border-radius: 1000px;
+	 position: relative;
+	 overflow: hidden;
+	 cursor: default;
+	 outline: none;
+  	border: none;
+  	margin: 0px 10px;
+	transition: all ease 0.2s;
+	color: rgba(255, 255, 255, 0.8);
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button:active {
+	transform: translateY(4px);
+}
+
+/* COLOR BASE */
+
+ button.primary {
+	 background: linear-gradient(rgba(0, 65, 184, 0.625), rgba(45, 115, 199, 0.625), rgba(33, 160, 196, 0.625));
+	 box-shadow: 0 0.375em 0.5em rgba(0, 0, 0, 0.3), 0 0.125em 0.125em rgba(0, 78, 187, 0.5), inset 0 0.25em 0.5em rgba(0, 17, 49, 0.8), inset 0 0.375em 0.5em 0.25em rgba(0, 78, 187, 0.75);
+}
+
+ button.primary:focus, button.primary:active {
+	 box-shadow: 0 0.375em 0.5em rgba(0, 0, 0, 0.3), 0 0.125em 0.125em rgba(0, 78, 187, 0.5), inset 0 0.25em 0.5em rgba(0, 17, 49, 0.8), inset 0 0.375em 0.5em 0.25em rgba(0, 78, 187, 0.75), 0 0 0.5em rgba(52, 106, 227, 0.5);
+}
+
+button.secondary {
+	 background: linear-gradient(rgba(160, 160, 160, 0.625), rgba(255, 255, 255, 0.625));
+	 box-shadow: 0 0.375em 0.5em rgba(0, 0, 0, 0.2), 0 0.125em 0.125em rgba(0, 0, 0, 0.3), inset 0 0.25em 0.25em rgba(0, 0, 0, 0.4), inset 0 0.375em 0.5em 0.25em #bbb;
+}
+
+ button.secondary:focus, button.secondary:active {
+	 box-shadow: 0 0.375em 0.5em rgba(0, 0, 0, 0.2), 0 0.125em 0.125em rgba(0, 0, 0, 0.3), inset 0 0.25em 0.25em rgba(0, 0, 0, 0.4), inset 0 0.375em 0.5em 0.25em #bbb, 0 0 0.5em rgba(0, 0, 0, 0.25);
+}
+
+/* COLOR ROTATION */
+
+button.aqua {filter: hue-rotate(317deg);}
+button.orange {filter: hue-rotate(165deg);}
+button.purple {filter: hue-rotate(70deg);}
+button.magenta {filter: hue-rotate(101deg);}
+button.pink {filter: hue-rotate(129deg);}
+
+/* AQUA EFFECT */
+
+button:before {
+	 content: '';
+	 position: absolute;
+	 left: 50%;
+	 transform: translateX(-50%);
+	 height: 33%;
+	 background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.3));
+	 width: calc(100% - 0.875em);
+	 border-radius: 2em 2em 0.5em 0.5em;
+	 top: 5%;
+	 filter: blur(1px);
+	 z-index: 2;
+}
+
+button:after {
+	 content: '';
+	 position: absolute;
+	 left: 50%;
+	 transform: translateX(-50%);
+	 height: 33%;
+	 background: linear-gradient(rgba(255, 255, 255, 0.2), #fff);
+	 width: calc(100% - 1.25em);
+	 border-radius: 0.75em;
+	 bottom: 10%;
+	 filter: blur(3px);
+}
+
+/* BUTTON TEXT */
+
+button span {
+	 position: relative;
+	 top: -1px;
+	 z-index: 1;
+	 letter-spacing: 0.0375em;
+}
+
+button.primary span {
+	 text-shadow: 0 0.25em 0.2em rgba(30, 77, 161, 0.5);
+}
+
+button.secondary span {
+	 text-shadow: 0 0.25em 0.2em rgba(0, 0, 0, 0.25);
+}
