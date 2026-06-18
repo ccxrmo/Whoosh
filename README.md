@@ -38,6 +38,8 @@ Please contact us on Discord:
 
 ## Credits
 
+© 2026 Attempted Developers
+
 - IAteSomebodysHouse (also known as arkix72)
     - Project Owner
     - App Developer
