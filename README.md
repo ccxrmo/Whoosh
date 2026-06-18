@@ -24,10 +24,8 @@ Since the project started recently there isn't an actual **list** of devices whe
 > [!NOTE]
 > Take in mind this is an hypothetical list, which means that some of the devices listed might not be supported later on development.
 
-## The Design
-Whoosh's design is *highly* based on **Skeuomorphism** and **Frutiger Aero**. It's theme is highly influenced by **ocean's wildlife**. 
-
-The primary colors of Whoosh are blue and green.
+## Documentation
+If you wish to know more about visit [the website](https://whoosh.net) or visit the [GitHub Wiki](https://github.com/ccxrmo/Whoosh/wiki)
 
 ## If you're interested and you are a developer, join us!
 Whoosh is our first project, and we know little about coding apps, so this is actually a bit of a challenge for us. We're also a group of 2 people, so we'd like to have people who have a bit of experience on coding and developing to help us reach our goal and join the project!
