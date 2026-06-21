@@ -42,6 +42,7 @@ Please contact us on Discord:
     - Project Owner
     - App Developer
     - Server Hoster
+    - Website
 
 - astrxbe (also known as ccxrmo)
     - Project Owner
