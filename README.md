@@ -36,18 +36,20 @@ Please contact us on Discord:
 
 ## Credits
 
-© 2026 Attempted Developers
+**© 2026 Attempted Developers**
 
 - IAteSomebodysHouse (also known as arkix72)
     - Project Owner
     - App Developer
     - Server Hoster
     - Website
+    - Resources and UI
 
 - astrxbe (also known as ccxrmo)
     - Project Owner
     - App Developer
     - Graphic Designer
+    - Wiki
     - Website
 
 [^1]: Logo not finalized, might change later on development.
