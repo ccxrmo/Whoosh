@@ -1,1 +1,0 @@
-# Updates about Whoosh
