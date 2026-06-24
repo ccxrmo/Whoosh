@@ -15,14 +15,14 @@ If a feature has its checkbox not checked it means is considered but not added y
 If a feature is marked by a line it means that it's scrapped in its entirety or partially.
 If a feature is instead highlighted it means that it has a higher priority than other features.
 
-- [] <mark>Customizable Profiles</mark>
+- [ ] <mark>Customizable Profiles</mark>
     - Custom colors selectable with a color wheel.
     - Add **widgets** to your profile! <font color="blue">*Not sure what it is? Check more documentation about Whoosh's main goals.*</font>
     - Banners
     - Badges
     - Custom Fonts
-- [] <mark>UI</mark>
+- [ ] <mark>UI</mark>
     - *Further details not added yet.*
-- [] Services
+- [ ] Services
     - *Further details not added yet.*
 
