@@ -17,7 +17,7 @@ If a feature is instead highlighted it means that it has a higher priority than 
 
 - [ ] <mark>Customizable Profiles</mark>
     - Custom colors selectable with a color wheel.
-    - Add **widgets** to your profile! <font color="blue">*Not sure what it is? Check more documentation about Whoosh's main goals.*</font>
+    - Add **widgets** to your profile!
     - Banners
     - Badges
     - Custom Fonts
