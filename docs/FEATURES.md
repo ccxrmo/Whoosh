@@ -10,10 +10,10 @@ Make sure to check out the **rules** for contributing on Whoosh in the Github's 
 
 ## Planned Features
 ### How the list works
-If a feature has its checkbox checked it means that feature is being implemented / has been implemented on Whoosh.
-If a feature has its checkbox not checked it means is considered but not added yet.
-If a feature is marked by a line it means that it's scrapped in its entirety or partially.
-If a feature is instead highlighted it means that it has a higher priority than other features.
+If a feature has its checkbox checked it means that feature is being implemented / has been implemented on Whoosh.  
+If a feature has its checkbox not checked it means is considered but not added yet.  
+If a feature is marked by a line it means that it's scrapped in its entirety or partially.  
+If a feature is instead highlighted it means that it has a higher priority than other features.  
 > [!NOTE]
 > Most of the items listed are both hypothetical and still pre-development stage. Might get unrealistic over time. This list just gives an idea of what **Whoosh** could be.
 
